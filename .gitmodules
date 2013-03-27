@@ -1,0 +1,6 @@
+[submodule "ios-here-frank-tests"]
+	path = ios-here-frank-tests
+	url = git@github.com:PayPal-Mobile/ios-here-frank-tests.git
+[submodule "ios-here"]
+	path = ios-here
+	url = git@github.paypal.com:PayPal-Mobile/ios-here.git
